@@ -1,0 +1,5 @@
+learning how to work with vairables and how they change.
+
+status = pending
+new_status = complete
+print (new_status)
