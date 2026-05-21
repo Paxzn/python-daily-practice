@@ -3,3 +3,6 @@ learning how to work with vairables and how they change.
 status = pending
 new_status = complete
 print (new_status)
+
+adding variables or values together 
+ "Followers" + "55"
