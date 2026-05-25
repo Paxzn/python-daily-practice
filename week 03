@@ -2,3 +2,6 @@ Utilizing true value
 
 mimo practice
 powered_on=True
+
+correct = True
+print(correct)
