@@ -1,7 +1,18 @@
-Utilizing true value
+Utilizing true/false
+value
 
 mimo practice
 powered_on=True
 
 correct = True
 print(correct)
+
+print ("Load data")
+status = False
+print(status)
+subscribed = false 
+
+not the negator makes things the opposite 
+
+print (not True) 
+output -> False
