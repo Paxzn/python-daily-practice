@@ -1,0 +1,8 @@
+#programming training week 04
+
+#continuation of variables 
+#setting savings amount
+savings = 100
+
+#printing variable
+print(savings)
