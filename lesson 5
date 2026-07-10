@@ -1,0 +1,9 @@
+# the repo is changing to by leason now instead of by week.
+
+#!= and other relevant operators to check inequality
+
+script.py
+print(1 != 10)
+
+result = 1 != 2
+print(result)
