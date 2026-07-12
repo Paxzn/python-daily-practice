@@ -1,2 +1,10 @@
 #if statements in python 
 #intro to programming lesson
+#if,Elif,Else
+
+response = input("Would you like pizza? (Y/N): ")
+
+if response == "Y":
+		print ("Here's some food")
+else:
+		print("No food for you!")
